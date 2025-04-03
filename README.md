@@ -5,7 +5,7 @@
 3. Tools
 4. Data Cleaning / Preparation
 5. Exploratory Data Analysis (To answer key questions)
-6. Data Analysis (
+6. Data Analysis (include interesting codes/features)
 ### Project Overview
 The goal of this project is to analyze the staff layoffs at [Company Name], examining the factors that contributed to the layoffs, understanding the demographic and workforce-related impacts, and providing recommendations based on the findings. This will help stakeholders, including HR departments, business leaders, and investors, better understand the consequences of the layoffs and how to mitigate the impact on both the employees and the company.
 ### Data Source
